@@ -5,7 +5,7 @@ uvicorn main:app
 ## Swagger user/password for authentication
 
 damir/damir : can read and write
-ana/ANALYZE	: can only read
+ana/ana	: can only read
 
 ## How to use Swagger
 
